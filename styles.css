@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.linha{
+    display: flex;
+}
+
+.quadrado{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: .5px solid white;
+}
+
+.borda{
+    border: 3px solid black;
+}
+
+#unico{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+}
+
+.azul{
+    background-color: cornflowerblue;
+}
+
+.verde{
+    background-color: green;
+}
+
+.amarelo{
+    background-color: yellow;
+}
